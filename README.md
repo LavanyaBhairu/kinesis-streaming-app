@@ -77,3 +77,27 @@ node consumer.js
 ### Output Example
 Producer sends real-time events
 Consumer reads and logs processed data
+
+# Future Improvements
+Integrate AWS Lambda as consumer
+Store processed data in DynamoDB
+Add CloudWatch monitoring
+Implement CI/CD using GitHub Actions
+Infrastructure as Code using Terraform
+
+# Use Case
+
+This project simulates real-world systems like:
+
+Live order tracking
+IoT data streaming
+Real-time analytics pipelines
+
+# Author
+Lavanya B
+
+# Step 3 — Push README to GitHub
+
+git add README.md
+git commit -m "Added professional README"
+git push
